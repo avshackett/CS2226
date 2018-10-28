@@ -1,0 +1,35 @@
+
+----------------------------------------------------------------
+	Alec Shackett
+	CS 226
+	Sat Apr 22 2017	14:25:15
+----------------------------------------------------------------
+Input number of agents:
+2
+0    Agent2  Harrison  8.5  
+0    Agent1  Kaufman   4    
+4    Agent1  Zhang     15.5 
+8.5  Agent2  Amin      13.5 
+13.5 Agent2  Lewis     23   
+15.5 Agent1  Henley    20   
+20   Agent1  Gray      27   
+23   Agent2  Klein     28.5 
+27   Agent1  Nugent    35.5 
+28.5 Agent2  Smith     32.5 
+32.5 Agent2  Lestrand  38.5 
+35.5 Agent1  Li        39.5 
+38.5 Agent2  Thomas    46   
+39.5 Agent1  Chu       43.5 
+43.5 Agent1  Haines    47.5 
+46   Agent2  Perez     54   
+47.5 Agent1  Goldman   55.5 
+54   Agent2  Weller    59   
+55.5 Agent1  Stallone  60.5 
+59   Agent2  Galler    73   
+60.5 Agent1  Zhong     74.5 
+73   Agent2  Haddad    79.5 
+74.5 Agent1  Rivest    81   
+Flight is running on time!
+
+Normal termination.
+Program ended with exit code: 0
